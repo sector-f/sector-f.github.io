@@ -2,13 +2,12 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
 description:         'Sector F Lambda Complex of the Black Mesa Research facility'
-# url:                 https://sector-f.github.io
+url:                 https://sector-f.github.io
 baseurl:             ''
 paginate:            5
 
